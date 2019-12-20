@@ -1,0 +1,392 @@
+{
+  "before_intro_london": {
+    "type": "video",
+    "video": [
+      {
+        "videoId": "3wp9Mjp0QRA",
+        "suggestedQuality": "large",
+        "volume": 0
+      }
+    ],
+    "name": "Before Intro",
+    "group": "scene"
+  },
+  "london_intro": {
+    "type": "video",
+    "video": [
+      {
+        "videoId": "GmS_XU5dMhQ",
+        "startSeconds": 30,
+        "suggestedQuality": "large",
+        "volume": 0
+      },
+      {
+        "videoId": "N6hF3EaICxk",
+        "suggestedQuality": "large",
+        "volume": 0
+      }
+    ],
+    "name": "BG: London Intro",
+    "group": "scene"
+  },
+  "london_street": {
+    "type": "video",
+    "video": [
+      {
+        "videoId": "pTHDfGpNUm8",
+        "suggestedQuality": "large",
+        "volume": 0
+      },
+      {
+        "videoId": "LQOhgdhUg3c",
+        "suggestedQuality": "large",
+        "volume": 0
+      }
+    ],
+    "name": "BG: London",
+    "group": "scene"
+  },
+  "london_underground": {
+    "type": "video",
+    "video": [
+      {
+        "videoId": "7j6FlsEtaFo",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "name": "BG: London Underground",
+    "group": "scene"
+  },
+  "london_train_station": {
+    "type": "video",
+    "video": [
+      {
+        "videoId": "ExRiS8tQH8A",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "name": "BG: London Station",
+    "group": "scene"
+  },
+  "werft": {
+    "type": "video",
+    "video": [
+      {
+        "videoId": "oc_Mc0kZijw",
+        "suggestedQuality": "large",
+        "volume": 0
+      }
+    ],
+    "sound": [
+      {
+        "videoId": "bDZVYI_hIEs",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "name": "BG: London Werft",
+    "group": "scene"
+  },
+  "train": {
+    "type": "video",
+    "video": [
+      {
+        "videoId": "udpFcFyG8YQ",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "name": "BG: Zug",
+    "group": "scene"
+  },
+  "bg_carriage": {
+    "type": "image",
+    "image": "bg/Die_Ankunft.jpg",
+    "name": "BG: Kutsche",
+    "group": "scene",
+    "sound": [
+      {
+        "videoId": "2UnwwWvqYIc",
+        "suggestedQuality": "large",
+        "volume": 50
+      }
+    ]
+  },
+  "bg_roof": {
+    "type": "video",
+    "video": [
+      {
+        "videoId": "MryWW013mWg",
+        "startSeconds": 30,
+        "suggestedQuality": "large",
+        "volume": 0
+      }
+    ],
+    "name": "BG: Dachboden",
+    "group": "scene"
+  },
+  "letter_invitation": {
+    "type": "text",
+    "font": "letter",
+    "image": "bg/Hinweis_Einladung.png",
+    "text": [
+      {
+        "text": "Alter Freund,"
+      },
+      {
+        "text": [
+          "ich hoffe, dieses Schreiben erreicht dich bei bester Gesundheit. Ich habe mich allzu lang nicht bei dir gemeldet, doch gehen mir in den letzten Tagen unsere gemeinsamen Gespraeche nicht aus dem Kopf. Du erinnertest mich einst daran, dass Vernunft stets die wichtigste aller Tugenden zu sein habe.",
+          "Und doch komme ich an die Grenzen meiner Vernunft, ich moechte fast sagen, meines Verstandes. Ich fuerchte mich! Verzeih, dass ich so in Raetseln schreibe. Doch was ich dir zu berichten habe, verlangt nach einem persoenlichen Gespraech.",
+          "Ich bitte dich also, mein Freund, mache dich umgehend auf den Weg zu mir nach Morriton Manor. Eine Kutsche wird dich am Bahnhof Waterloo abholen und das Ticket fuer einen Zug, der noch am heutigen Vormittag faehrt, liegt diesem Schreiben bei."
+        ],
+        "duration": 26000
+      },
+      {
+        "text": [
+          "In freudiger Erwartung deines Besuches",
+          "Bertram Morriton"
+        ],
+        "duration": 10000
+      }
+    ],
+    "options": {
+      "fontSize": 46,
+      "letterSpacing": 3,
+      "strokeWidth": 2,
+      "color": "black"
+    },
+    "sound": [
+      {
+        "videoId": "OwuOWfid5IM",
+        "startSeconds": 345,
+        "endSeconds": "370",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "name": "T: Einladung",
+    "group": "scene"
+  },
+  "clue_bet": {
+    "type": "image",
+    "image": "bg/Hinweis_Bett.png",
+    "name": "H: Bett",
+    "group": "scene"
+  },
+  "clue_book": {
+    "type": "image",
+    "image": "bg/Hinweis_Buch.png",
+    "name": "H: Buch",
+    "group": "scene"
+  },
+  "clue_dolch": {
+    "type": "image",
+    "image": "bg/Hinweis_Dolch.png",
+    "name": "H: Dolch",
+    "group": "scene"
+  },
+  "clue_fueller": {
+    "type": "image",
+    "image": "bg/Hinweis_Füller.png",
+    "name": "H: Füller",
+    "group": "scene"
+  },
+  "clue_hut": {
+    "type": "image",
+    "image": "bg/Hinweis_Hut.png",
+    "name": "H: Hut",
+    "group": "scene"
+  },
+  "clue_kleid": {
+    "type": "image",
+    "image": "bg/Hinweis_Kleid.png",
+    "name": "H: Kleid",
+    "group": "scene"
+  },
+  "clue_maedchen": {
+    "type": "image",
+    "image": "bg/Hinweis_Mädchen.png",
+    "name": "H: Mädchen",
+    "group": "scene"
+  },
+  "clue_reh": {
+    "type": "image",
+    "image": "bg/Hinweis_Reh.png",
+    "name": "H: Reh",
+    "group": "scene"
+  },
+  "clue_schluesselbund": {
+    "type": "image",
+    "image": "bg/Hinweis_Schlüsselbund.png",
+    "name": "H: Schlüsselbund",
+    "group": "scene"
+  },
+  "clue_schrank": {
+    "type": "image",
+    "image": "bg/Hinweis_Schrank.png",
+    "name": "H: Schrank",
+    "group": "scene"
+  },
+  "clue_spuren": {
+    "type": "image",
+    "image": "bg/Hinweis_Spuren.png",
+    "name": "H: Spuren",
+    "group": "scene"
+  },
+  "clue_teller": {
+    "type": "image",
+    "image": "bg/Hinweis_Teller.png",
+    "name": "H: Teller",
+    "group": "scene"
+  },
+  "clue_tuer": {
+    "type": "image",
+    "image": "bg/Hinweis_Tür.png",
+    "name": "H: Tür",
+    "group": "scene"
+  },
+  "clue_newspapper": {
+    "type": "text",
+    "font": "letter",
+    "image": "bg/Hinweis_Zeitung.png",
+    "text": [
+      {
+        "text": "Daniel Morriton bleibt verschwunden",
+        "fontSize": 80,
+        "strokeWidth": 3,
+        "textAlign": "center",
+        "duration": 5000
+      },
+      {
+        "text": "Auf dem Anwesen der Familie Morriton hat man am heutigen Tage die Suche nach dem Sohn der Familie einstellen muessen. Nach ueber zwei Monaten ohne Spur des Sprosses gebe man die Hoffnung zwar nicht zur Gaenze auf, jedoch sei es unwahrscheinlich, das Kind im naeheren Umfeld des Anwesens noch aufzufinden.",
+        "duration": 11000
+      },
+      {
+        "text": "Daniel Morriton trug zum Zeitpunkt seines Verschwindens einen blauen Hosenanzug mit goldenen Knoepfen daran. Er hat dunkles, welliges Haar und ist von eher verschlossener Persoenlichkeit. Fuer jegliche Hinweise auf seinen Aufenthaltsort hat die Familie Morriton eine Belohnung von 1000 Pfund ausgesetzt.",
+        "duration": 11000
+      },
+      {
+        "text": "Unsere Gedanken und Gebete sind bei der Familie und allen Angehoerigen.",
+        "duration": 8000
+      }
+    ],
+    "options": {
+      "fontSize": 50,
+      "letterSpacing": 3,
+      "strokeWidth": 2,
+      "color": "black"
+    },
+    "sound": [
+      {
+        "videoId": "1OA_hR2a7dI",
+        "startSeconds": 5,
+        "endSeconds": 10,
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "name": "H: Zeitung",
+    "group": "scene"
+  },
+  "daemon": {
+    "type": "image",
+    "image": "bg/daemon.png",
+    "name": "Dämon",
+    "group": "scene"
+  },
+  "clue_morriton_letter": {
+    "type": "text",
+    "font": "letter",
+    "image": "bg/letter.jpg",
+    "text": [
+      {
+        "text": "Herr Strauss,"
+      },
+      {
+        "text": [
+          "ich wuerde mich gerne persoenlich bedanken fuer das Ritual, das Sie mir gaben. Rafasthan war genau das was ich gesucht habe. ",
+          "Ich denke Sie koennen jedoch verstehen das ich Ihrer Bitte derzeit nicht nachkommen kann, da ich familiaer verhindert bin. Ich werde mich jedoch so schnell wie moeglich erkenntlich zeigen."
+        ],
+        "duration": 8000
+      },
+      {
+        "text": "Ausserdem schulde ich Ihnen sowieso noch mein Leben fuer die Vorstellung in den Ark Zirkel."
+      },
+      {
+        "text": [
+          "Ark All Ueber",
+          "Bertram Morriton"
+        ]
+      }
+    ],
+    "options": {
+      "fontSize": 50,
+      "letterSpacing": 3,
+      "strokeWidth": 2,
+      "color": "black"
+    },
+    "sound": [
+      {
+        "videoId": "OwuOWfid5IM",
+        "startSeconds": 345,
+        "endSeconds": "370",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "name": "H: Morriton Brief",
+    "group": "scene"
+  },
+  "clue_morriton_secret": {
+    "type": "text",
+    "font": "letter",
+    "image": "bg/letter.jpg",
+    "text": [
+      {
+        "text": "",
+        "duration": 0
+      },
+      {
+        "text": "Die Vollkommenheit"
+      },
+      {
+        "text": "der glaenzenden Nacht"
+      },
+      {
+        "text": "im Turm"
+      },
+      {
+        "text": "weisst die Ziffern"
+      },
+      {
+        "text": "des Weges."
+      }
+    ],
+    "options": {
+      "fontSize": 70,
+      "letterSpacing": 3,
+      "strokeWidth": 2,
+      "color": "black",
+      "textAlign": "center"
+    },
+    "sound": [
+      {
+        "videoId": "OwuOWfid5IM",
+        "startSeconds": 345,
+        "endSeconds": "370",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "name": "H: Morriton ARK",
+    "group": "scene"
+  },
+  "outro_image": {
+    "type": "image",
+    "image": "intro/Intro.jpg",
+    "name": "Outro",
+    "group": "scene"
+  }
+}

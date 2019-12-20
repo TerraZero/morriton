@@ -1,0 +1,226 @@
+{
+  "before_intro": {
+    "name": "Before Intro",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "xmGLIwAmzM0",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "intro": {
+    "name": "Intro",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "IBTBJURZZDU",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "hidden_speak": {
+    "name": "Intro Sprechen",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "erIbtt2xTsc",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "carriage": {
+    "name": "Die Kutsche",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "V03JGEChlXU",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "normal": {
+    "name": "Normal",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "SaCheA6Njc4",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "normal_2": {
+    "name": "Normal 2",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "ApSoNBu2wt8",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "normal_3": {
+    "name": "Normal 3",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "CuU9q2VKOyc",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "normal_4": {
+    "name": "Normal 4",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "BjnnUCmNREI",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "music_room": {
+    "name": "Musik Zimmer",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "6HBl3tnjPDs",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "dark": {
+    "name": "Dark",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "k68thGEDlx8",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "dark_2": {
+    "name": "Dark 2",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "5qUQeyG3hYI",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "hidden_champer": {
+    "name": "Versteckte Kammer",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "gZqbvV2RGiE",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "the_night": {
+    "name": "DIE NACHT",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "3rgh3mVQGqM",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "puzzle": {
+    "name": "Das Rätsel",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "eduwBgDcMwY",
+        "suggestedQuality": "large",
+        "volume": 100
+      },
+      {
+        "videoId": "22MpXAD_uwU",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "hidden_room": {
+    "name": "Geheimraum",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "JiogkSyZrNE",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "battle": {
+    "name": "Kampf",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "_8BwHHEopec",
+        "suggestedQuality": "large",
+        "volume": 100
+      },
+      {
+        "videoId": "JY39CBDJyXc",
+        "suggestedQuality": "large",
+        "volume": 100
+      },
+      {
+        "videoId": "99yFe68YtMQ",
+        "suggestedQuality": "large",
+        "volume": 100
+      },
+      {
+        "videoId": "XtVWapeHCPU",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "outro": {
+    "name": "Outro",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "oN2Xs-MvxLw",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  }
+}

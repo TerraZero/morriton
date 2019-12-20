@@ -1,0 +1,72 @@
+{
+  "floor_0": {
+    "image": "maps/Karte_erdgeschoss_0011_bekannt.png",
+    "name": "Etage 0",
+    "group": "map"
+  },
+  "floor_1": {
+    "image": "maps/Karte_1_etage_0011_bekannt.png",
+    "name": "Etage 1",
+    "group": "map"
+  },
+  "floor_2": {
+    "image": "maps/Karte_2_etage_0011_bekannt.png",
+    "name": "Etage 2",
+    "group": "map"
+  },
+  "krypta": {
+    "image": "maps/0_erdgeschoss_0000_Krypta.png",
+    "name": "Krypta",
+    "group": "map"
+  },
+  "bibliothek": {
+    "image": "maps/0_erdgeschoss_0003_Bibliothek.png",
+    "name": "Bibliothek",
+    "group": "map"
+  },
+  "orangerie": {
+    "image": "maps/0_erdgeschoss_0001_Orangerie.png",
+    "name": "Orangerie",
+    "group": "map"
+  },
+  "arbeitszimmer": {
+    "image": "maps/0_erdgeschoss_0002_arbeitszimmer.png",
+    "name": "Arbeitszimmer",
+    "group": "map"
+  },
+  "weinkeller": {
+    "image": "maps/0_erdgeschoss_0004_weinkeller.png",
+    "name": "Weinkeller",
+    "group": "map"
+  },
+  "gaestebad": {
+    "image": "maps/0_erdgeschoss_0005_gästebad.png",
+    "name": "Gästebad",
+    "group": "map"
+  },
+  "bad": {
+    "image": "maps/0_erdgeschoss_0006_bad.png",
+    "name": "Bad",
+    "group": "map"
+  },
+  "musikzimmer": {
+    "image": "maps/0_erdgeschoss_0007_musikzimmer.png",
+    "name": "Musikzimmer",
+    "group": "map"
+  },
+  "geheimraum": {
+    "image": "maps/0_erdgeschoss_0008_geheimraum.png",
+    "name": "Geheimraum",
+    "group": "map"
+  },
+  "buero": {
+    "image": "maps/0_erdgeschoss_0009_Büro.png",
+    "name": "Büro",
+    "group": "map"
+  },
+  "elliot": {
+    "image": "maps/0_erdgeschoss_0010_Elliot.png",
+    "name": "Elliot",
+    "group": "map"
+  }
+}
