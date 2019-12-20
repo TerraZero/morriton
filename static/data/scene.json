@@ -380,7 +380,51 @@
         "volume": 100
       }
     ],
-    "name": "H: Morriton ARK",
+    "name": "H: Morriton ARK Grün",
+    "group": "scene"
+  },
+  "clue_morriton_secret_red": {
+    "type": "text",
+    "font": "letter",
+    "image": "bg/letter.jpg",
+    "text": [
+      {
+        "text": "",
+        "duration": 0
+      },
+      {
+        "text": "Der Adler"
+      },
+      {
+        "text": "zeigt den Weg"
+      },
+      {
+        "text": "in die Vollkommenheit"
+      },
+      {
+        "text": "durch absolute"
+      },
+      {
+        "text": "Ordnung."
+      }
+    ],
+    "options": {
+      "fontSize": 70,
+      "letterSpacing": 3,
+      "strokeWidth": 2,
+      "color": "black",
+      "textAlign": "center"
+    },
+    "sound": [
+      {
+        "videoId": "OwuOWfid5IM",
+        "startSeconds": 345,
+        "endSeconds": "370",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "name": "H: Morriton ARK Rot",
     "group": "scene"
   },
   "outro_image": {

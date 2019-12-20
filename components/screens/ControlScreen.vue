@@ -61,7 +61,7 @@ export default {
         show: [],
         volume: {
           sound: 100,
-          scene: 0
+          scene: 100
         }
       }
     };

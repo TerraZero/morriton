@@ -24,8 +24,8 @@ export default class SoundController extends VideoController {
   }
 
   next() {
-    if (this.video === undefined) return;
     this._index++;
+    if (this.video === undefined || this.video[this._index] === undefined) return;
     this._player.loadVideoById(this.video[this._index]);
     this._player.setVolume(this.video[this._index].volume);
   }

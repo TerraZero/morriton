@@ -40,7 +40,7 @@
     "type": "music",
     "video": [
       {
-        "videoId": "V03JGEChlXU",
+        "videoId": "p5svu1l6PFw",
         "suggestedQuality": "large",
         "volume": 100
       }
@@ -120,7 +120,7 @@
     "group": "music"
   },
   "dark_2": {
-    "name": "Dark 2",
+    "name": "Dark 2 | Turm",
     "type": "music",
     "video": [
       {
@@ -131,10 +131,59 @@
     ],
     "group": "music"
   },
+  "puzzle": {
+    "name": "Das Rätsel Büro",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "pxxBeUOF8zY",
+        "suggestedQuality": "large",
+        "volume": 100
+      },
+      {
+        "videoId": "ZpBWs0XKb0w",
+        "suggestedQuality": "large",
+        "volume": 80
+      },
+      {
+        "videoId": "ifibTm4bHHI",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
+  "hidden_room": {
+    "name": "Geheimraum",
+    "type": "music",
+    "video": [
+      {
+        "videoId": "nZn4MdJSr7Y",
+        "suggestedQuality": "large",
+        "volume": 100
+      },
+      {
+        "videoId": "HzXQtXhN4jE",
+        "suggestedQuality": "large",
+        "volume": 80
+      },
+      {
+        "videoId": "JiogkSyZrNE",
+        "suggestedQuality": "large",
+        "volume": 100
+      }
+    ],
+    "group": "music"
+  },
   "hidden_champer": {
     "name": "Versteckte Kammer",
     "type": "music",
     "video": [
+      {
+        "videoId": "3rgh3mVQGqM",
+        "suggestedQuality": "large",
+        "volume": 100
+      },
       {
         "videoId": "gZqbvV2RGiE",
         "suggestedQuality": "large",
@@ -148,36 +197,22 @@
     "type": "music",
     "video": [
       {
-        "videoId": "3rgh3mVQGqM",
-        "suggestedQuality": "large",
-        "volume": 100
-      }
-    ],
-    "group": "music"
-  },
-  "puzzle": {
-    "name": "Das Rätsel",
-    "type": "music",
-    "video": [
-      {
-        "videoId": "eduwBgDcMwY",
+        "videoId": "MnTW8iF9oXg",
         "suggestedQuality": "large",
         "volume": 100
       },
       {
-        "videoId": "22MpXAD_uwU",
+        "videoId": "R8Ijt_f6EcE",
         "suggestedQuality": "large",
         "volume": 100
-      }
-    ],
-    "group": "music"
-  },
-  "hidden_room": {
-    "name": "Geheimraum",
-    "type": "music",
-    "video": [
+      },
       {
-        "videoId": "JiogkSyZrNE",
+        "videoId": "jbg2imxhbb0",
+        "suggestedQuality": "large",
+        "volume": 80
+      },
+      {
+        "videoId": "BHjvWO78mkE",
         "suggestedQuality": "large",
         "volume": 100
       }
@@ -189,7 +224,17 @@
     "type": "music",
     "video": [
       {
-        "videoId": "_8BwHHEopec",
+        "videoId": "Pt4ei6fJQs4",
+        "suggestedQuality": "large",
+        "volume": 100
+      },
+      {
+        "videoId": "2j_eGKfpc_w",
+        "suggestedQuality": "large",
+        "volume": 100
+      },
+      {
+        "videoId": "i1i1XJVk9og",
         "suggestedQuality": "large",
         "volume": 100
       },
