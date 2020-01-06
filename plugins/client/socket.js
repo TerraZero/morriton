@@ -103,6 +103,7 @@ class Sync {
       setTimeout(() => {
         const item = this.scenedata[data.scene[0]];
         if (item.type !== 'text') return;
+        
         const copytext = [];
         const copyoptions = {};
 
