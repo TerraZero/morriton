@@ -15,9 +15,10 @@
       <path class="text-a" d="M 265, 580 l 0, -50 a 35, 50 0 0 1 35, 50 m -35, -25 l 27, 0" stroke="white" stroke-width="10" fill="transparent" />
     </g>
     <g class="text-zero">
-      <path class="textz-z" d="M 50, 590 l 35, 0 l -35, 30 l 30, 0" stroke="white" stroke-width="8" fill="transparent" />
-      <path class="textz-e" d="M 140, 590 l -32.5, 0 l -5, 30 l 30, 0 m 2.5, -15 l -32.5, 0" stroke="white" stroke-width="8" fill="transparent" />
-      <path class="text-r" d="M 145, 625 l 5, -35 l 35, 0 l -35, 17.5 a 25, 17.5 0 0 1 25, 17.5 " stroke="white" stroke-width="8" fill="transparent" />
+      <path class="text-z" d="M 50, 590 l 35, 0 l -30, 35 l 35, 0" stroke="white" stroke-width="8" fill="transparent" />
+      <path class="text-e" d="M 140, 590 l -35, 0 l 0, 35 l 35, 0 m 0, -17.5 l -35, 0" stroke="white" stroke-width="8" fill="transparent" />
+      <path class="text-r" d="M 150, 630 l 0, -40 l 25, 0 l -20, 20 a 25, 20 0 0 1 25, 20" stroke="white" stroke-width="8" fill="transparent" />
+      <path class="text-a" d="M 195, 630 " stroke="white" stroke-width="8" fill="transparent" />
     </g>
   </g>
 </svg>
