@@ -84,3 +84,4 @@ dist
 # custom
 .vscode
 .editorconfig
+.DS_Store

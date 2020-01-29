@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 500 650" style="border: 1px solid black; background: black" width="500px" height="650px">
+  <g class="logo">
+    <circle class="circle" r="240" cx="250" cy="250" fill="transparent" stroke="white" stroke-width="20" />
+    <path class="letter-t" d="M 160, 140 l 180, 0 m -90, 0 l 0, 250" stroke="white" stroke-width="20" fill="transparent" />
+    <path class="letter-z" d="M 180, 190 l 170, 0 l -190, 140 l 140, 0" stroke="white" stroke-width="20" fill="transparent" />
+    <path class="arc-left" d="M 0, 250 a 250, 250 0 0 1 250, -250 z" fill="white" />
+    <path class="arc-right" d="M 500, 250 a 250, 250 0 0 1 -250, 250 z" fill="white" />
+  </g>
+  <g class="text">
+    <g class="text-terra">
+      <path class="text-t" d="M 50, 530 l 50, 0 m -25, 0 l 0, 50" stroke="white" stroke-width="10" fill="transparent" />
+      <path class="text-e" d="M 150, 530 l -35, 0 l 0, 45 l 35, 0 m 0, -22.5 l -35, 0" stroke="white" stroke-width="10" fill="transparent" />
+      <path class="text-r" d="M 165, 580 l 0, -50 l 25, 0 l -18, 25 a 25, 25 0 0 1 23, 25 " stroke="white" stroke-width="10" fill="transparent" />
+      <path class="text-r" d="M 215, 580 l 0, -50 l 25, 0 l -18, 25 a 25, 25 0 0 1 23, 25 " stroke="white" stroke-width="10" fill="transparent" />
+      <path class="text-a" d="M 265, 580 l 0, -50 a 35, 50 0 0 1 35, 50 m -35, -25 l 27, 0" stroke="white" stroke-width="10" fill="transparent" />
+    </g>
+    <g class="text-zero">
+      <path class="textz-z" d="M 50, 590 l 35, 0 l -35, 30 l 30, 0" stroke="white" stroke-width="8" fill="transparent" />
+      <path class="textz-e" d="M 150, 530 l -35, 0 l 0, 45 l 35, 0 m 0, -22.5 l -35, 0" stroke="white" stroke-width="10" fill="transparent" />
+    </g>
+  </g>
+</svg>
