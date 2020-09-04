@@ -22,7 +22,7 @@
     "youtube-player": "^5.5.2"
   },
   "devDependencies": {
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "nodemon": "^1.11.0",
     "pug": "^2.0.3",
     "pug-plain-loader": "^1.0.0",
